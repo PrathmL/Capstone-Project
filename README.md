@@ -1,5 +1,5 @@
-# Capstone-Project
- Predictive Maintenance of Industrial Machinery ML Model
+# Capstone-Project-Predictive Maintenance of Industrial Machinery ML Model
+ 
 Develop a predictive maintenance model for a fleet of industrial machines to anticipate 
 failures before they occur. This project will involve analyzing sensor data from machinery 
 to identify patterns that precede a failure. The goal is to create a classification model that 
